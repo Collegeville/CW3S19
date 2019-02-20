@@ -1,9 +1,10 @@
-The Collegeville Workshop on Sustainable Scientific Software (W3S 2019) will be held at St. John's University, Collegeville, MN from July 22 - 25, 2019.
 
-## 2019 Workshop on Sustainable Scientific Software
+## 2019 Collegeville Workshop on Sustainable Scientific Software
 - 7:00 pm Monday, July 22 through late Wednesday, July 24, 2019
 - Room 264, Quadrangle Building, St. John's University, Collegeville, MN
 - Contact: Mike Heroux <maherou@sandia.gov>, +1 505 379 5518
+
+- [Agenda](Agenda.md)
 
 ### Organizers:
 - Mike Heroux, Sandia National Laboratories, St. John's University
@@ -20,5 +21,3 @@ The goal of this workshop is to bring together community leaders and practitione
 ### Background
 Sustainability is essential to progress in scientific software.  As software ecoystems evolve toward inter-operable and complementary components and the demands for reproducible computational science increase, improved sustainability becomes increasingly important.
 
-
-- [Agenda](Agenda.md)
