@@ -1,2 +1,2 @@
-# W3S-2019
+# CW3S19
 2019 Collegeville Workshop on Sustainable Scientific Software
