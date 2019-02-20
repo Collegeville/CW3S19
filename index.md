@@ -4,6 +4,7 @@
 - Room 264, Quadrangle Building, St. John's University, Collegeville, MN
 - Contact: Mike Heroux <maherou@sandia.gov>, +1 505 379 5518
 
+### Agenda
 - [Agenda](Agenda.md)
 
 ### Organizers:
