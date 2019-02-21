@@ -14,6 +14,6 @@
 - James Willenbring, Sandia National Laboratories
 
 ### Details
-- Background(Background.md)
-- Workshop Goals (Goals.md)
+- [Background](Background.md)
+- [Workshop Goals](Goals.md)
 - [Agenda](Agenda.md)
