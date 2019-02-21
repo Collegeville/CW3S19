@@ -8,7 +8,7 @@
 - Mike Heroux, Sandia National Laboratories, St. John's University
 - David Bernholdt, Oak Ridge National Laboratory
 - Rinku Gupta, Argonne National Laboratory
-- Dan Katz, University of Illinois
+- Daniel S. Katz, University of Illinois Urbana-Champaign
 - Reed Milewicz, Sandia National Laboratories
 - Elaine Raybourn, Sandia National Laboratories
 - James Willenbring, Sandia National Laboratories
