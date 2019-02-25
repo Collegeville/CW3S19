@@ -6,6 +6,7 @@
 
 ### Organizers:
 - Mike Heroux, Sandia National Laboratories, St. John's University
+- Eric Bavier, Cray, Inc.
 - David Bernholdt, Oak Ridge National Laboratory
 - Rinku Gupta, Argonne National Laboratory
 - Daniel S. Katz, University of Illinois Urbana-Champaign
