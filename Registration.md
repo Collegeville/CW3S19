@@ -17,6 +17,6 @@ During the summer months, student apartments and dorms are available for visitor
 
 St. John's Refectory provides a one-price buffet with salad bar and a variety of entrees.  Meals can be purchased at the cashier desk.  An 8-meal packet of punches is also an option, with a reduced per-meal cost.
 
-#### More Standard Accommodations
+#### Off-Campus Accommodations
 
-St. John's is about 15 miles west of St. Cloud, MN.  If you prefer a more standard hotel arrangement, there are many hotels in the St. Cloud area less than 30 minutes from campus.
+St. John's is about 15 miles west of St. Cloud, MN.  If you prefer a more standard hotel arrangement, there are many hotels in the St. Cloud area, less than 30 minutes from campus by car.
