@@ -1,4 +1,9 @@
-## On-Campus Housing and Meals
+## Registration, On-Campus Housing and Meals
+
+#### Workshop Fees
+
+We have a single form for workshop registration and (optional) on-campus housing reservations.  Please register for the workshop prior to July 9, 2019. [Registration Form](https://www.csbsju.edu/forms/8D6H22T02P).
+
 
 #### Housing
 
