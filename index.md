@@ -1,22 +1,15 @@
 
-### 2019 Collegeville Workshop on Sustainable Scientific Software
-- 7:00 pm Monday, July 22 through late Wednesday, July 24, 2019
-- Room 264, Quadrangle Building, St. John's University, Collegeville, MN
-- Contact: Mike Heroux <maherou@sandia.gov>, +1 505 379 5518
+## 2019 Collegeville Workshop on Sustainable Scientific Software
 
-### Organizers:
-- Mike Heroux, Sandia National Laboratories, St. John's University
-- Eric Bavier, Cray, Inc.
-- David Bernholdt, Oak Ridge National Laboratory
-- Rinku Gupta, Argonne National Laboratory
-- Jacob Hemstad, Nvidia Corp.
-- Daniel S. Katz, University of Illinois Urbana-Champaign
-- Sarah Knepper, Intel Corp.
-- Reed Milewicz, Sandia National Laboratories
-- Elaine Raybourn, Sandia National Laboratories
-- James Willenbring, Sandia National Laboratories
+- 7:00 pm Monday, July 22 through late Wednesday, July 24, 2019
+- Plenary Sessions: Room 264, Quadrangle Building, St. John's University, Collegeville, MN
+- Informal Sessions: Br Willy's Pub, Sexton Commons, St. John's University, Collegeville, MN
+- Contact: Mike Heroux <maherou@sandia.gov>, +1 505 379 5518
 
 ### Details
 - [Background](Background.md)
-- [Workshop Goals](Goals.md)
+- [Workshop Goals and Format](GoalsFormat.md)
+- [Workshop Venue](Venue.md)
+- [Workshop Registration and Housing Reservations](Registration.md)
 - [Agenda](Agenda.md)
+- [Organizers](Organizers.md)
