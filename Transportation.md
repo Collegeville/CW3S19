@@ -1,4 +1,4 @@
-## Tranportation
+## Transportation
 
 St. John's University is located northwest of Minneapolis, MN, about 90 minutes from the Minneapolis-St. Paul International Airport (MSP).  MSP is serviced by many airlines and is a Delta Airlines hub.
 
