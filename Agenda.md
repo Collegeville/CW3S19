@@ -1,5 +1,5 @@
 
-### Agenda
+## Agenda
 
 Monday, July 22
 -  7:00 pm Opening Reception

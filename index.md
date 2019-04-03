@@ -1,5 +1,5 @@
 
-# CW3S19 Home
+## CW3S19 Home
 
 ### 2019 Collegeville Workshop on Sustainable Scientific Software (CW3S19)
 
