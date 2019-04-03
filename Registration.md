@@ -1,4 +1,4 @@
-## Registration, On-Campus Housing and Meals
+## Registration
 
 #### Workshop Registration
 
