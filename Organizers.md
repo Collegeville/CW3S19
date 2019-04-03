@@ -1,4 +1,4 @@
-## Collegeville Workshop on Sustainable Scientific Software 2019 (CW3S19) Organizers:
+## Organizers:
 
 - Mike Heroux, Sandia National Laboratories, St. John's University
 - Eric Bavier, Cray, Inc.
