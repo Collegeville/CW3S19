@@ -1,5 +1,7 @@
 
-# 2019 Collegeville Workshop on Sustainable Scientific Software (CW3S19)
+# CW3S19 Home
+
+## 2019 Collegeville Workshop on Sustainable Scientific Software (CW3S19)
 
 - 7:00 pm Monday, July 22 through late Wednesday, July 24, 2019.  Depart, Thursday, July 25, 2019.
 - Plenary Sessions: Room 264, Quadrangle Building, St. John's University, Collegeville, MN
