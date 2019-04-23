@@ -9,10 +9,10 @@
 - Contact: Mike Heroux <maherou@sandia.gov>, +1 505 379 5518
 
 ### Details
+- [**Workshop Registration and Housing Reservations**](Registration.md)
 - [Background](Background.md)
 - [Workshop Goals and Format](GoalsFormat.md)
 - [Workshop Venue](Venue.md)
-- [Workshop Registration and Housing Reservations](Registration.md)
 - [Agenda](Agenda.md)
 - [Transportation](Transportation.md)
 - [Organizers](Organizers.md)
