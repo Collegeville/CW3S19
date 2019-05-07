@@ -11,6 +11,7 @@
 ### Details
 - [**Workshop Registration and Housing Reservations**](Registration.md)
 - [Background](Background.md)
+- [Contribute](Contribute.md)
 - [Workshop Goals and Format](GoalsFormat.md)
 - [Workshop Venue](Venue.md)
 - [Agenda](Agenda.md)
