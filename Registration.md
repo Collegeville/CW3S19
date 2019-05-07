@@ -6,7 +6,7 @@ We have a single form for workshop registration and (optional) on-campus housing
 
 Please register by June 21, 2019. [**Registration Form**](https://www.csbsju.edu/forms/8D6H22T02P)
 
-### Cancellation
+#### Cancellation
 
 If you are unable to attend the workshop, please cancel by July 17 for a full refund.
 
@@ -17,13 +17,15 @@ During the summer months, student apartments and dorms are available for visitor
 #### Contact for questions or special on-campus arrangements:
 
 If you want to bring family or share a Flynn Town apartment, or have other special housing needs, please contact:
-> Jeff Wubbels, jwubbels@csbsju.edu
-> 320-363-2240, Fax 320-363-2658
 
-> Events and Conferences, P.O. Box 2000
-> Saint John's University Collegeville, MN 56321-2000
+```
+Jeff Wubbels, jwubbels@csbsju.edu
+320-363-2240, Fax 320-363-2658
+Events and Conferences, P.O. Box 2000
+Saint John's University Collegeville, MN 56321-2000
+```
 
-## Available rooms are:
+#### Available rooms are:
 
 - **Single room, Placid Apartments, air conditioned with bath ($55/night):** Each Placid apartment has six private bedrooms with private bathrooms.  There is a shared kitchen and laundry room.  Picking this option gives you your own small hotel-like room with Internet, sink and shower that is reached by entering the apartment and climbing stairs to your own room.  **This option requires the ability to use stairs.**
 - **Single room, Benet Hall air conditioned with bath ($55/night):** The Benet Hall rooms are more traditional college dorms with private baths.  These rooms are very close to the workshop meeting room and are handicap accessible.
