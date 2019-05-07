@@ -2,7 +2,9 @@
 
 ### Workshop Registration
 
-We have a single form for workshop registration and (optional) on-campus housing reservations.  The registration fee is $150. Please register for the workshop by June 21, 2019. [**Registration Form**](https://www.csbsju.edu/forms/8D6H22T02P)
+We have a single form for workshop registration and (optional) on-campus housing reservations.  The workshop registration fee is $150. Housing options are described below.
+
+Please register by June 21, 2019. [**Registration Form**](https://www.csbsju.edu/forms/8D6H22T02P)
 
 ### Cancellation
 
@@ -21,7 +23,7 @@ If you want to bring family or share a Flynn Town apartment, or have other speci
 > Events and Conferences, P.O. Box 2000
 > Saint John's University Collegeville, MN 56321-2000
 
-Available rooms are:
+## Available rooms are:
 
 - **Single room, Placid Apartments, air conditioned with bath ($55/night):** Each Placid apartment has six private bedrooms with private bathrooms.  There is a shared kitchen and laundry room.  Picking this option gives you your own small hotel-like room with Internet, sink and shower that is reached by entering the apartment and climbing stairs to your own room.  **This option requires the ability to use stairs.**
 - **Single room, Benet Hall air conditioned with bath ($55/night):** The Benet Hall rooms are more traditional college dorms with private baths.  These rooms are very close to the workshop meeting room and are handicap accessible.
