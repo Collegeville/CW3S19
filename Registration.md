@@ -17,6 +17,7 @@ During the summer months, student apartments and dorms are available for visitor
 If you want to bring family or share a Flynn Town apartment, or have other special housing needs, please contact:
 > Jeff Wubbels, jwubbels@csbsju.edu
 > 320-363-2240, Fax 320-363-2658
+
 > Events and Conferences, P.O. Box 2000
 > Saint John's University Collegeville, MN 56321-2000
 
