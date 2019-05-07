@@ -10,7 +10,7 @@
 
 ### Details
 - [**Workshop Registration and Housing Reservations**](Registration.md)
-- [**Contribute**](Contribute.md)
+- [**Contribute whitepaper**](Contribute.md)
 - [Background](Background.md)
 - [Workshop Goals and Format](GoalsFormat.md)
 - [Workshop Venue](Venue.md)
