@@ -9,7 +9,6 @@ Workshop attendees are encouraged to submit brief white papers articulating impe
 - To have your white paper considered for presentation, please submit it no later than **June 15, 2019**.
 
 ## How to submit
-
 Option 1: Submit pull request
 - Fork the [CW3S19 repository](https://github.com/Collegeville/CW3S19)
 - Add your white paper as a PDF document to the directory CW3S19/WorkshopResources/WhitePapers/ in your local fork.
