@@ -1,6 +1,6 @@
 ## Workshop Resources
 
-- [Whitepapers](WhitePapers/WhitePaperlist.md)
-- [Presentations](Presentations/PresentationList.md)
-- [Workshop Notes](WorkshopNotes/NotesList.md)
-- [Workshop Report](WorkshopReport/Report.pdf)
+- [Whitepapers](WorkshopResources/WhitePapers/WhitePaperList.md)
+- [Presentations](WorkshopResources/Presentations/PresentationList.md)
+- [Workshop Notes](WorkshopResources/WorkshopNotes/NotesList.md)
+- [Workshop Report](WorkshopResources/WorkshopReport/Report.pdf)
