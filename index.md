@@ -14,6 +14,7 @@
 - [Workshop Goals and Format](GoalsFormat.md)
 - [Workshop Venue](Venue.md)
 - [Agenda](Agenda.md)
+- [Resources](Resources.md)
 - [Transportation](Transportation.md)
 - [Organizers](Organizers.md)
 - [Campus Code-of-Conduct Policy](https://www.csbsju.edu/joint-student-development/title-ix)
