@@ -17,7 +17,7 @@ Tuesday, July 23 - **Impediments and Challenges to Sustainability**
 -  6:00 pm Dinner
 -  7:30 pm Informal discussions
 
-Wednesday, July 24 - **Priority R&D Directions**
+Wednesday, July 24 - **Opportunities, Research Directions and Potential Solutions**
 -  7:30 am Breakfast
 -  8:30 am Session 1
 - 10:00 am Break
