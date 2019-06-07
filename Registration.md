@@ -2,7 +2,7 @@
 
 ### Workshop Registration
 
-We have a single form for workshop registration and (optional) on-campus housing reservations.  The workshop registration fee is $150. Housing options are described below.
+We have a single form for workshop registration and (optional) on-campus housing reservations.  The workshop registration fee is $150. The fee covers facility and media fees and morning and afternoon snacks.  Meals are at the university cafeteria and paid for separately. Housing options are described below.
 
 Please register by June 21, 2019. [**Registration Form**](https://www.csbsju.edu/forms/8D6H22T02P)
 
