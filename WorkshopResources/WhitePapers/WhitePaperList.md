@@ -8,5 +8,5 @@ Please organize alphabetically by last name.
 
 ## List of papers:
 - [Lastname, Firstname: Sample Whitepaper Title](HerouxMichaelSampleWhitepaper.pdf)
+- [Dubey, Anshu: Software Engineering Research for Exploratory Research Software](DubeyAnshu_whitepaper.pdf)
 - [Katz, Daniel S.: Data-Driven Software Sustainability](KatzDanielS_CW3S19_white_paper.pdf)
-
