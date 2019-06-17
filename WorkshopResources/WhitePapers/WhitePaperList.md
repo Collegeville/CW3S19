@@ -13,6 +13,7 @@ Please organize alphabetically by last name.
 - [Chue Hong, Neil: Making open source research software visible: new models for sustaining research software development](ChueHongMakingOpenSourceResearchSoftwareVisible.pdf)
 - [Chue Hong, Neil: Software undead: a bestiary of software that
 somehow manages to stay alive](ChueHongSoftwareUndead.pdf)
+- [Cohoon, Hanna: Routes to Sustainable Software in Science: Transitioning to Peer Production](CohoonHandoutAOM.pdf)
 - [Cowan, Benjamin: The need for software deployability: Broadening community tools for industry use](CowanBenjamin_Deployability.pdf)
 - [Dubey, Anshu: Software Engineering Research for Exploratory Research Software](DubeyAnshu_whitepaper.pdf)
 - [Dyadechko, Vadim: Random Thoughts on Software Sustainability](vdyadec-CS3S19.pdf)
@@ -23,3 +24,4 @@ somehow manages to stay alive](ChueHongSoftwareUndead.pdf)
 - [Kurzak, Jakub: From Research Prototype to Production Software: The Lessons of the SLATE Project](KurzakJakub_CW3S19_slate.pdf)
 - [Li, Sherry: Making Correctness Testing and Performance Autotuning Integral Parts of Software](LiSherry_CWS319_whitepaper.pdf)
 - [Miller, Mark C: Continuous Technology Refreshment: a Sustainable Software Best Practice](markcmiller86_ctr.md)
+- [Watson, Greg: A Scientific Approach to Developing Scientific Software](CW3S19_watson.pdf)
