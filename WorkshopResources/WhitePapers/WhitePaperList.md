@@ -8,6 +8,7 @@ Please organize alphabetically by last name.
 
 ## List of papers:
 - [Lastname, Firstname: Sample Whitepaper Title](HerouxMichaelSampleWhitepaper.pdf)
+- [Bernholdt, David: Open Sourcing Your Software is Not a Sustainability Strategy -- Until it Is!](bernholdt-open-source-v02.pdf)
 - [Dubey, Anshu: Software Engineering Research for Exploratory Research Software](DubeyAnshu_whitepaper.pdf)
 - [Jagode, Heike: What Does It Take to Keep PAPI Instrumental for the HPC Community?](JagodeHeike_CW3S19_papi.pdf)
 - [Katz, Daniel S.: Data-Driven Software Sustainability](KatzDanielS_CW3S19_white_paper.pdf)
