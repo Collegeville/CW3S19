@@ -24,6 +24,7 @@ Please organize alphabetically by last name.
 - [Knepper, Sarah:Software Sustainability Considerations for a Performance Library](Knepper_Intel_MKL_Software_Sustainability.pdf)
 - [Kurzak, Jakub: From Research Prototype to Production Software: The Lessons of the SLATE Project](KurzakJakub_CW3S19_slate.pdf)
 - [Li, Sherry: Making Correctness Testing and Performance Autotuning Integral Parts of Software](LiSherry_CWS319_whitepaper.pdf)
+- [McInnes, Lois Curfman, et. al.: 2014 DOE Report on Software Productivity for Extreme-Scale Science: Perspectives on Recommendations, Progress, and Urgent Needs](swp4xs-perspectives-2019.pdf)
 - [Milewicz, Reed: Wickedness, Trust, and Sustainability](MilewiczWickednessTrustSustainability.pdf)
 - [Miller, Mark C: Continuous Technology Refreshment: a Sustainable Software Best Practice](markcmiller86_ctr.md)
 - [Quillen, Pat: Sustainable Software Practices in Developing MATLAB](quillenCW3S19.pdf)
