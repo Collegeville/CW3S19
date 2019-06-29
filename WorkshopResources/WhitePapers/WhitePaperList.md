@@ -16,6 +16,7 @@ Please organize alphabetically by last name.
 - [Cowan, Benjamin: The need for software deployability: Broadening community tools for industry use](CowanBenjamin_Deployability.pdf)
 - [Dubey, Anshu: Software Engineering Research for Exploratory Research Software](DubeyAnshu_whitepaper.pdf)
 - [Dyadechko, Vadim: Random Thoughts on Software Sustainability](vdyadec-CS3S19.pdf)
+- [Gesing, Sandra, et. al.: OneSciencePlace: Sustainability Measures for a Science Gateway Framework](SustainabilityOneSciencePlace.pdf)
 - [Hall, Mary: Increasing Availability and Impact of Compiler Technology for HPC](HallMaryIncreasingAvailabilityofCompilerTechnologyforHPC.pdf)
 - [Heroux, Michael: Research Software Science: A New Approach to Understanding and Improving How We Develop and Use Software for Research](HerouxResearchSoftwareScientist.pdf)
 - [Jacob, Robert: Impediments to regular testing of Scientific Softare](JacobTestingCW3S19.pdf)
