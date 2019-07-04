@@ -1,7 +1,7 @@
 
 ## Agenda
 
-[Detailed Agenda (PDF)](CW3S19-Agenda.pdf)
+### [Detailed Agenda (PDF)](CW3S19-Agenda.pdf)
 
 ### Monday, July 22
 -  7:00 pm Opening Reception - Sexton Commons
