@@ -10,4 +10,5 @@ Please organize alphabetically by last name.
 
 - [Jake Hemstad](https://www.linkedin.com/in/jacobhemstad/)
 - [Michael Heroux](https://maherou.github.io)
+- [Daniel S. Katz](https://danielskatz.org)
 - [Sherry Li](https://crd.lbl.gov/departments/applied-mathematics/scalable-solvers/members/staff-members/xiaoye-li/)
