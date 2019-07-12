@@ -9,7 +9,7 @@ Please organize alphabetically by last name.
 ## List of Attendees (with URLs if available):
 
 - [Roscoe A. Bartlett](https://bartlettroscoe.github.io/)
-- [Jeffrey C. Carver] (http://carver.cs.ua.edu)
+- [Jeffrey C. Carver](http://carver.cs.ua.edu)
 - [Neil Chue Hong](https://www.software.ac.uk/about/staff/person/neil-chue-hong)
 - [Jake Hemstad](https://www.linkedin.com/in/jacobhemstad/)
 - [Michael Heroux](https://maherou.github.io)
