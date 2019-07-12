@@ -10,6 +10,7 @@ Please organize alphabetically by last name.
 
 - [Roscoe A. Bartlett](https://bartlettroscoe.github.io/)
 - [Jeffrey C. Carver](http://carver.cs.ua.edu)
+- [Hank Childs](http://cdux.cs.uoregon.edu/childs.html)
 - [Neil Chue Hong](https://www.software.ac.uk/about/staff/person/neil-chue-hong)
 - [Jake Hemstad](https://www.linkedin.com/in/jacobhemstad/)
 - [Michael Heroux](https://maherou.github.io)
