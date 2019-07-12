@@ -8,5 +8,6 @@ Please organize alphabetically by last name.
 
 ## List of Attendees (with URLs if available):
 
+- [Jake Hemstad](https://www.linkedin.com/in/jacobhemstad/)
 - [Michael Heroux](https://maherou.github.io)
 - [Sherry Li](https://crd.lbl.gov/departments/applied-mathematics/scalable-solvers/members/staff-members/xiaoye-li/)
