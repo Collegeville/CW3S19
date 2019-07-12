@@ -7,7 +7,6 @@ If you prefer to send the white paper by email, please send as a PDF attachment 
 Please organize alphabetically by last name.
 
 ## List of papers:
-- [Lastname, Firstname: Sample Whitepaper Title](HerouxMichaelSampleWhitepaper.pdf)
 - [Bernholdt, David: Open Sourcing Your Software is Not a Sustainability Strategy -- Until it Is!](bernholdt-open-source-v02.pdf)
 - [Carver, Jeffrey: Software Engineering for Sustainable Scientific Software: A Postion Paper for the 2019 Collegeville Workshop on Sustainable Scientic Software](Carver-SoftwareEngineering.pdf)
 - [Chue Hong, Neil: Making open source research software visible: new models for sustaining research software development](ChueHongMakingOpenSourceResearchSoftwareVisible.pdf)
