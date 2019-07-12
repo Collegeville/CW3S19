@@ -13,6 +13,7 @@
 - [**Agenda**](Agenda.md)
 - [**Detailed Agenda**](CW3S19-Agenda.pdf)
 - [**White Papers**](WorkshopResources/WhitePapers/WhitePaperList.md)
+- [**Attendees**](Attendees.md)
 - [**Background**](Background.md)
 - [**Workshop Goals and Format**](GoalsFormat.md)
 - [**Workshop Venue**](Venue.md)
