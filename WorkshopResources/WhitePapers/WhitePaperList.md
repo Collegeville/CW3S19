@@ -1,10 +1,6 @@
 # 2019 Collegeville Workshop on Sustainable Scientific Software Whitepapers
 
-To edit this page, use a pull request for [page source on GitHub.](https://github.com/Collegeville/CW3S19/edit/master/WorkshopResources/WhitePapers/WhitePaperList.md)
-
-If you prefer to send the white paper by email, please send as a PDF attachment to Mike Heroux <maherou@sandia.gov>.
-
-Please organize alphabetically by last name.
+[**All White Papers: WhitePapersBundle.zip**](../WhitePapersBundle.zip)
 
 ## List of papers:
 - [Bernholdt, David: Open Sourcing Your Software is Not a Sustainability Strategy -- Until it Is!](bernholdt-open-source-v02.pdf)
