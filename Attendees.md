@@ -14,6 +14,7 @@ Please organize alphabetically by last name.
 - [Neil Chue Hong](https://www.software.ac.uk/about/staff/person/neil-chue-hong)
 - [Jake Hemstad](https://www.linkedin.com/in/jacobhemstad/)
 - [Michael Heroux](https://maherou.github.io)
+- [Heike Jagode](http://icl.utk.edu/~jagode)
 - [Daniel S. Katz](https://danielskatz.org)
 - [Sherry Li](https://crd.lbl.gov/departments/applied-mathematics/scalable-solvers/members/staff-members/xiaoye-li/)
 - [Mark C Miller](https://github.com/markcmiller86)
