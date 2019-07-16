@@ -8,6 +8,7 @@ Please organize alphabetically by last name.
 
 ## List of Attendees (with URLs if available):
 
+- [Wolfgang Bangerth](https://www.math.colostate.edu/~bangerth/)
 - [Roscoe A. Bartlett](https://bartlettroscoe.github.io/)
 - [Jeffrey C. Carver](http://carver.cs.ua.edu)
 - [Hank Childs](http://cdux.cs.uoregon.edu/childs.html)
