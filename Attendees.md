@@ -21,4 +21,5 @@ Please organize alphabetically by last name.
 - [Sherry Li](https://crd.lbl.gov/departments/applied-mathematics/scalable-solvers/members/staff-members/xiaoye-li/)
 - [Mark C Miller](https://github.com/markcmiller86)
 - [Todd Munson](http://www.mcs.anl.gov/~tmunson)
+- [Pat Quillen](https://www.linkedin.com/in/patquillen/)
 - Elaine Raybourn
