@@ -22,6 +22,7 @@ Please organize alphabetically by last name.
 - [Robert Jacob](https://www.mcs.anl.gov/~jacob/)
 - [Heike Jagode](http://icl.utk.edu/~jagode)
 - [Daniel S. Katz](https://danielskatz.org)
+- [Jakub Kurzak](https://www.linkedin.com/in/jakubkurzak)
 - [Sherry Li](https://crd.lbl.gov/departments/applied-mathematics/scalable-solvers/members/staff-members/xiaoye-li/)
 - [Lois Curfman McInnes](https://mcs.anl.gov/~curfman)
 - [Mark C Miller](https://github.com/markcmiller86)
