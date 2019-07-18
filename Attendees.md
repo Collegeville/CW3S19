@@ -10,6 +10,7 @@ Please organize alphabetically by last name.
 
 - [Wolfgang Bangerth](https://www.math.colostate.edu/~bangerth/)
 - [Roscoe A. Bartlett](https://bartlettroscoe.github.io/)
+- [Eric T. Bavier](https://www.linkedin.com/in/eric-bavier-a7b06b187/)
 - [David E. Bernholdt](https://csmd.ornl.gov/profile/david-bernholdt)
 - [Jeffrey C. Carver](http://carver.cs.ua.edu)
 - [Nicholas Chaimov](https://www.linkedin.com/in/nchaimov/)
