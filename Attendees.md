@@ -14,6 +14,7 @@ Please organize alphabetically by last name.
 - [Hank Childs](http://cdux.cs.uoregon.edu/childs.html)
 - [Neil Chue Hong](https://www.software.ac.uk/about/staff/person/neil-chue-hong)
 - Johanna (Hannah) Cohoon
+- [Don Ferguson](https://www.linkedin.com/in/fergusondonald/)
 - [Sandra Gesing](http://sandra-gesing.com/)
 - [Mary Hall](https://www.ctop.cs.utah.edu/)
 - [Jake Hemstad](https://www.linkedin.com/in/jacobhemstad/)
@@ -22,6 +23,7 @@ Please organize alphabetically by last name.
 - [Heike Jagode](http://icl.utk.edu/~jagode)
 - [Daniel S. Katz](https://danielskatz.org)
 - [Sherry Li](https://crd.lbl.gov/departments/applied-mathematics/scalable-solvers/members/staff-members/xiaoye-li/)
+- [Lois Curfman McInnes](https://mcs.anl.gov/~curfman)
 - [Mark C Miller](https://github.com/markcmiller86)
 - [Todd Munson](http://www.mcs.anl.gov/~tmunson)
 - [Sarah Osborn](https://people.llnl.gov/osborn9)
