@@ -12,6 +12,7 @@ Please organize alphabetically by last name.
 - [Roscoe A. Bartlett](https://bartlettroscoe.github.io/)
 - [David E. Bernholdt](https://csmd.ornl.gov/profile/david-bernholdt)
 - [Jeffrey C. Carver](http://carver.cs.ua.edu)
+- [Nicholas Chaimov](https://www.linkedin.com/in/nchaimov/)
 - [Hank Childs](http://cdux.cs.uoregon.edu/childs.html)
 - [Neil Chue Hong](https://www.software.ac.uk/about/staff/person/neil-chue-hong)
 - Johanna (Hannah) Cohoon
