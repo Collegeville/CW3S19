@@ -10,6 +10,7 @@ Please organize alphabetically by last name.
 
 - [Wolfgang Bangerth](https://www.math.colostate.edu/~bangerth/)
 - [Roscoe A. Bartlett](https://bartlettroscoe.github.io/)
+- [David E. Bernholdt](https://csmd.ornl.gov/profile/david-bernholdt)
 - [Jeffrey C. Carver](http://carver.cs.ua.edu)
 - [Hank Childs](http://cdux.cs.uoregon.edu/childs.html)
 - [Neil Chue Hong](https://www.software.ac.uk/about/staff/person/neil-chue-hong)
