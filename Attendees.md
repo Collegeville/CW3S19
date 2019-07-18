@@ -14,6 +14,7 @@ Please organize alphabetically by last name.
 - [Jeffrey C. Carver](http://carver.cs.ua.edu)
 - [Nicholas Chaimov](https://www.linkedin.com/in/nchaimov/)
 - [Hank Childs](http://cdux.cs.uoregon.edu/childs.html)
+- [Edmond Chow](https://www.cc.gatech.edu/~echow/)
 - [Neil Chue Hong](https://www.software.ac.uk/about/staff/person/neil-chue-hong)
 - [Johanna (Hannah) Cohoon](https://www.linkedin.com/in/johanna-cohoon-ab7a903b/)
 - [Benjamin Cowan](https://www.txcorp.com/)
