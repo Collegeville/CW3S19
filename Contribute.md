@@ -1,4 +1,4 @@
-## Contribute White Paper
+## Contribute White Paper (Closed)
 
 Workshop attendees are encouraged to submit brief white papers articulating impediments, challenges, opportunities and potential solutions to scientific software sustainability.
 
