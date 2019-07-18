@@ -33,5 +33,6 @@ Please organize alphabetically by last name.
 - [Sarah Osborn](https://people.llnl.gov/osborn9)
 - [Pat Quillen](https://www.linkedin.com/in/patquillen/)
 - Elaine Raybourn
-- [Michael Zentner](https://www.linkedin.com/in/michaelzentner/)
 - [Greg Watson](https://www.ornl.gov/staff-profile/gregory-r-watson)
+- [Theresa Windus](https://group.chem.iastate.edu/Windus/homepage.html)
+- [Michael Zentner](https://www.linkedin.com/in/michaelzentner/)
