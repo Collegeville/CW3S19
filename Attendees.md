@@ -15,6 +15,7 @@ Please organize alphabetically by last name.
 - [Neil Chue Hong](https://www.software.ac.uk/about/staff/person/neil-chue-hong)
 - Johanna (Hannah) Cohoon
 - [Sandra Gesing](http://sandra-gesing.com/)
+- Mary Hall (https://www.ctop.cs.utah.edu/)
 - [Jake Hemstad](https://www.linkedin.com/in/jacobhemstad/)
 - [Michael Heroux](https://maherou.github.io)
 - [Robert Jacob](https://www.mcs.anl.gov/~jacob/)
