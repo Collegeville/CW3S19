@@ -16,6 +16,7 @@ Please organize alphabetically by last name.
 - [Hank Childs](http://cdux.cs.uoregon.edu/childs.html)
 - [Neil Chue Hong](https://www.software.ac.uk/about/staff/person/neil-chue-hong)
 - Johanna (Hannah) Cohoon
+- [Benjamin Cowan](https://www.txcorp.com/)
 - [Bosen Du](https://www.linkedin.com/in/bosen-du-b44214102/)
 - [Don Ferguson](https://www.linkedin.com/in/fergusondonald/)
 - [Sandra Gesing](http://sandra-gesing.com/)
