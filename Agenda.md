@@ -22,4 +22,4 @@
 -  5:00 - 6:30 pm Dinner - Refectory
 -  7:00 pm Informal discussions - Sexton Commons
 
-### Thursday, July 25 - Departure
+### Thursday, July 25 - Departure 
