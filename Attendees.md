@@ -15,7 +15,7 @@ Please organize alphabetically by last name.
 - [Nicholas Chaimov](https://www.linkedin.com/in/nchaimov/)
 - [Hank Childs](http://cdux.cs.uoregon.edu/childs.html)
 - [Neil Chue Hong](https://www.software.ac.uk/about/staff/person/neil-chue-hong)
-- Johanna (Hannah) Cohoon
+- [Johanna (Hannah) Cohoon](https://www.linkedin.com/in/johanna-cohoon-ab7a903b/)
 - [Benjamin Cowan](https://www.txcorp.com/)
 - [Bosen Du](https://www.linkedin.com/in/bosen-du-b44214102/)
 - [Don Ferguson](https://www.linkedin.com/in/fergusondonald/)
@@ -32,9 +32,11 @@ Please organize alphabetically by last name.
 - [Lois Curfman McInnes](https://mcs.anl.gov/~curfman)
 - [Mark C Miller](https://github.com/markcmiller86)
 - [Todd Munson](http://www.mcs.anl.gov/~tmunson)
+- Eric Nielsen, NASA
 - [Sarah Osborn](https://people.llnl.gov/osborn9)
 - [Pat Quillen](https://www.linkedin.com/in/patquillen/)
-- Elaine Raybourn
+- [Elaine Raybourn](https://www.linkedin.com/in/elaineraybourn/)
+- Dena Vigil, Sandia National Labs
 - [Greg Watson](https://www.ornl.gov/staff-profile/gregory-r-watson)
 - [Theresa Windus](https://group.chem.iastate.edu/Windus/homepage.html)
 - [Michael Zentner](https://www.linkedin.com/in/michaelzentner/)
