@@ -15,6 +15,7 @@ Please organize alphabetically by last name.
 - [Nicholas Chaimov](https://www.linkedin.com/in/nchaimov/)
 - [Hank Childs](http://cdux.cs.uoregon.edu/childs.html)
 - [Neil Chue Hong](https://www.software.ac.uk/about/staff/person/neil-chue-hong)
+- [Anshu Dubey](https://www.anl.gov/profile/anshu-dubey)
 - Johanna (Hannah) Cohoon
 - [Bosen Du](https://www.linkedin.com/in/bosen-du-b44214102/)
 - [Don Ferguson](https://www.linkedin.com/in/fergusondonald/)
