@@ -15,6 +15,7 @@
 - [**White Papers**](WorkshopResources/WhitePapers/WhitePaperList.md)
 - [**All White Papers: WhitePapersBundle.zip**](WorkshopResources/WhitePapersBundle.zip)
 - [**Attendees**](Attendees.md)
+- [**Discussion Groups**](DiscussionGroups.md)
 - [**Background**](Background.md)
 - [**Workshop Goals and Format**](GoalsFormat.md)
 - [**Workshop Venue**](Venue.md)
