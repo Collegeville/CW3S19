@@ -1,4 +1,4 @@
-Discussion group	Last Name
+## Discussion Groups
 
 | Group 1 [Google Docs Notes](https://docs.google.com/document/d/1y6Sg_K-nz-GRGnf1ZrjN20jFj1NvfmCIduKvt2BlzeE/edit?usp=sharing) |
 |-------------------------------|
