@@ -9,4 +9,5 @@ If you prefer to send the presentation by email, please send as a PDF attachment
 Please organize alphabetically by last name.
 
 ## List of presentations:
+- [Heroux, Michael: Workshop Introduction](HerouxIntroduction.pdf)
 - [Kurzak, Jakub: From Research Prototype to Production Software:The Lessons of the SLATE Project](CW3S19-Kurzak.pdf)
