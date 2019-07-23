@@ -19,6 +19,7 @@ Please organize alphabetically by last name.
 - [Neil Chue Hong](https://www.software.ac.uk/about/staff/person/neil-chue-hong)
 - [Johanna (Hannah) Cohoon](https://www.linkedin.com/in/johanna-cohoon-ab7a903b/)
 - [Benjamin Cowan](https://www.txcorp.com/)
+- Vadim Dyadechko, ExxonMobil
 - [Bosen Du](https://www.linkedin.com/in/bosen-du-b44214102/)
 - [Anshu Dubey](https://www.anl.gov/profile/anshu-dubey)
 - [Don Ferguson](https://www.linkedin.com/in/fergusondonald/)
