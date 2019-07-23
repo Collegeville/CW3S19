@@ -24,3 +24,4 @@ Please organize alphabetically by last name.
 ### Session 3: Technical Approaches for Improved Sustainability
 - [Kurzak, Jakub: From Research Prototype to Production Software:The Lessons of the SLATE Project](CW3S19-Kurzak.pdf)
 ### Session 4: Cultural Approaches for Improved Sustainability
+- [Chue Hong, Neil: Making research software visible:new models for sustaining development](20190724%20CW3S19%20Chue%20Hong.pdf)
