@@ -9,6 +9,7 @@ If you prefer to send the presentation by email, please send as a PDF attachment
 Please organize alphabetically by last name.
 
 ## List of presentations:
+- [Cowan, Benjamin: The need for software deployability: Broadening community tools for industry use](deployability_redacted.pdf)
 - [Heroux, Michael: Workshop Introduction](HerouxIntroduction.pdf)
 - [Dubey, Anshu: WHAT IS SUSTAINABILITY FROM A LARGE MULTIPHYSICS SOFTWARE PERSPECTIVE](sustainability_collegeville.pdf)
 - Dyadechko, Vadim: Do you know how to KYSSS?(Keep Your Sci. Software Sustainable): A tough love story.
