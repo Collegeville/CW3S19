@@ -42,5 +42,6 @@ Please organize alphabetically by last name.
 - [Elaine Raybourn](https://www.linkedin.com/in/elaineraybourn/)
 - Dena Vigil, Sandia National Labs
 - [Greg Watson](https://www.ornl.gov/staff-profile/gregory-r-watson)
+- James Willenbring, Sandia National Labs
 - [Theresa Windus](https://group.chem.iastate.edu/Windus/homepage.html)
 - [Michael Zentner](https://www.linkedin.com/in/michaelzentner/)
