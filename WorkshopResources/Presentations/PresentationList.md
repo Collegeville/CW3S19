@@ -25,5 +25,5 @@ Please organize alphabetically by last name.
 - [Bernholdt, David E.: Open Sourcing Your Software is Not a Sustainability Plan – Until it Is!](2019-07-oss-sustainability-bernholdt-v01.pdf)
 - [Kurzak, Jakub: From Research Prototype to Production Software:The Lessons of the SLATE Project](CW3S19-Kurzak.pdf)
 ### Session 4: Cultural Approaches for Improved Sustainability
-- [Chue Hong, Neil: Making research software visible:new models for sustaining development](20190724%20CW3S19%20Chue%20Hong.pdf)
+- [Chue Hong, Neil: Making research software visible: new models for sustaining development](20190724%20CW3S19%20Chue%20Hong.pdf)
 - [Katz, Daniel S.: Data-Driven Software Sustainability](Katz_data-driven-software-sustainability.pdf)
