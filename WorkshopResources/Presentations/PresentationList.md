@@ -18,7 +18,7 @@ Please organize alphabetically by last name.
 ### Session 2: Sustainability Challenges
 - [Cowan, Benjamin: The need for software deployability: Broadening community tools for industry use](deployability_redacted.pdf)
 - [Hall, Mary: Increasing Availability and Impact of Compiler Technology for HPC](Hall-CW3S19.pdf)
-- [Jagode, Heike: TBA]
+- [Jagode, Heike: What Does It Take to Keep PAPI Instrumental for the HPC Community?](JagodeHeike_CW3S19_papi_talk.pdf)
 - [Jacob, Rob: Impediments to regular testing of Scientific Software or CI vs. HPC Centers](JacobCW3S19Testing.pdf)
 - [Knepper, Sarah: Software Sustainability Considerations for a Performance Library](CW3S19_Knepper.pdf)
 ### Session 3: Technical Approaches for Improved Sustainability
