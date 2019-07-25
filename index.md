@@ -9,19 +9,21 @@
 - Contact: Mike Heroux <maherou@sandia.gov>, +1 505 379 5518
 
 ### Details
-- [**Campus Map**](SJU-Campus-Map.pdf)
 - [**Agenda**](Agenda.md)
 - [**Detailed Agenda**](CW3S19-Agenda.pdf)
 - [**White Papers**](WorkshopResources/WhitePapers/WhitePaperList.md)
 - [**All White Papers: WhitePapersBundle.zip**](WorkshopResources/WhitePapersBundle.zip)
+- [**Presentations**](WorkshopResources/Presentations/PresentationList.md)
+- [**All Presentations: PresentationsBundle.zip**](WorkshopResources/PresentationsBundle.zip)
 - [**Attendees**](Attendees.md)
 - [**Discussion Groups**](DiscussionGroups.md)
 - [**Background**](Background.md)
 - [**Workshop Goals and Format**](GoalsFormat.md)
 - [**Workshop Venue**](Venue.md)
 - [**Resources**](Resources.md)
+- [**Organizers**](Organizers.md)
 - [**Transportation**](Transportation.md)
 - [**Ride Sharing**](Ride_sharing.md)
-- [**Organizers**](Organizers.md)
 - [**Workshop Registration and Housing Reservations**](Registration.md)
+- [**Campus Map**](SJU-Campus-Map.pdf)
 - [**Campus Code-of-Conduct Policy**](https://www.csbsju.edu/joint-student-development/title-ix)
