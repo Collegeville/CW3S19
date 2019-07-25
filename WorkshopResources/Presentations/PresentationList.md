@@ -19,7 +19,7 @@
 - [David E. Bernholdt: Open Sourcing Your Software is Not a Sustainability Plan – Until it Is!](3-2-2019-07-oss-sustainability-bernholdt-v01.pdf)
 - [Jakub Kurzak: From Research Prototype to Production Software: The Lessons of the SLATE Project](3-3-CW3S19-Kurzak.pdf)
 - [Sherry Li: Making Correctness Testing and Performance Autotuning The Integral Parts of Software](3-4-Li_talk.pdf)
-- [Mark Miller: Technical Approaches to Improved Software Sustainability](3-5-cs3s19_tech_approaches3.pdf)
+- [Mark Miller: Technical Approaches to Improved Software Sustainability](3-5-cw3s19_tech_approaches3.pdf)
 ### Session 4: Cultural Approaches for Improved Sustainability
 - [Neil Chue Hong: Making research software visible: new models for sustaining development](4-1-20190724-CW3S19-Chue-Hong.pdf)
 - [Jeffrey Carver: Software Engineering for Sustainable Scientific Software](4-2-SoftwareEngineering.pdf)
