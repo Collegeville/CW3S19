@@ -19,14 +19,15 @@ Please organize alphabetically by last name.
 - [Neil Chue Hong](https://www.software.ac.uk/about/staff/person/neil-chue-hong)
 - [Johanna (Hannah) Cohoon](https://www.linkedin.com/in/johanna-cohoon-ab7a903b/)
 - [Benjamin Cowan](https://www.txcorp.com/)
-- Vadim Dyadechko, ExxonMobil
 - [Bosen Du](https://www.linkedin.com/in/bosen-du-b44214102/)
 - [Anshu Dubey](https://www.anl.gov/profile/anshu-dubey)
-- [Don Ferguson](https://www.linkedin.com/in/fergusondonald/)
+- Vadim Dyadechko, ExxonMobil
 - [Sandra Gesing](http://sandra-gesing.com/)
 - [Mary Hall](https://www.ctop.cs.utah.edu/)
 - [Jake Hemstad](https://www.linkedin.com/in/jacobhemstad/)
 - [Michael Heroux](https://maherou.github.io)
+- Angela Herring, Los Alamos National Laboratory
+- [Jeremy Iverson](https://www.users.csbsju.edu/~jiverson002/)
 - [Robert Jacob](https://www.mcs.anl.gov/~jacob/)
 - [Heike Jagode](http://icl.utk.edu/~jagode)
 - [Daniel S. Katz](https://danielskatz.org)
@@ -34,12 +35,15 @@ Please organize alphabetically by last name.
 - [Jakub Kurzak](https://www.linkedin.com/in/jakubkurzak)
 - [Sherry Li](https://crd.lbl.gov/departments/applied-mathematics/scalable-solvers/members/staff-members/xiaoye-li/)
 - [Lois Curfman McInnes](https://mcs.anl.gov/~curfman)
+- Katherine Mendel, College of St. Benedict
+- Reed Milewicz, Sandia National Laboratories
 - [Mark C Miller](https://github.com/markcmiller86)
 - [Todd Munson](http://www.mcs.anl.gov/~tmunson)
 - Eric Nielsen, NASA
 - [Sarah Osborn](https://people.llnl.gov/osborn9)
 - [Pat Quillen](https://www.linkedin.com/in/patquillen/)
 - [Elaine Raybourn](https://www.linkedin.com/in/elaineraybourn/)
+- Connor Smith, Saint John's University
 - Dena Vigil, Sandia National Labs
 - [Greg Watson](https://www.ornl.gov/staff-profile/gregory-r-watson)
 - James Willenbring, Sandia National Labs
