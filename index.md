@@ -8,7 +8,7 @@
 - Informal Sessions: Br Willy's Pub, Sexton Commons, St. John's University, Collegeville, MN
 - Contact: Mike Heroux <maherou@sandia.gov>, +1 505 379 5518
 
-![2019 Collegeville Workshop on Sustainable Scientific Software - Attendees](CS3S19-Attendees.jpg "2019 Collegeville Workshop on Sustainable Scientific Software - Attendees")
+![2019 Collegeville Workshop on Sustainable Scientific Software - Attendees](CW3S19-Attendees.jpg "2019 Collegeville Workshop on Sustainable Scientific Software - Attendees")
 
 ### Details
 - [**Agenda**](Agenda.md)
