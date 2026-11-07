@@ -1,11 +1,5 @@
 # 2019 Collegeville Workshop on Sustainable Scientific Software Attendees
 
-To edit this page, use a pull request for the [page source on GitHub.](https://github.com/Collegeville/CW3S19/edit/master/Attendees.md)
-
-Or let me know you want your name listed and send me your URL if you have one: <maherou@sandia.gov>
-
-Please organize alphabetically by last name.
-
 ## List of Attendees (with URLs if available):
 
 - [Wolfgang Bangerth](https://www.math.colostate.edu/~bangerth/)
@@ -14,7 +8,7 @@ Please organize alphabetically by last name.
 - [David E. Bernholdt](https://csmd.ornl.gov/profile/david-bernholdt)
 - [Jeffrey C. Carver](http://carver.cs.ua.edu)
 - [Nicholas Chaimov](https://www.linkedin.com/in/nchaimov/)
-- [Hank Childs](http://cdux.cs.uoregon.edu/childs.html)
+- Hank Childs
 - [Edmond Chow](https://www.cc.gatech.edu/~echow/)
 - [Neil Chue Hong](https://www.software.ac.uk/about/staff/person/neil-chue-hong)
 - [Johanna (Hannah) Cohoon](https://www.linkedin.com/in/johanna-cohoon-ab7a903b/)
@@ -27,7 +21,7 @@ Please organize alphabetically by last name.
 - [Jake Hemstad](https://www.linkedin.com/in/jacobhemstad/)
 - [Michael Heroux](https://maherou.github.io)
 - Angela Herring, Los Alamos National Laboratory
-- [Jeremy Iverson](https://www.users.csbsju.edu/~jiverson002/)
+- Jeremy Iverson
 - [Robert Jacob](https://www.mcs.anl.gov/~jacob/)
 - [Heike Jagode](http://icl.utk.edu/~jagode)
 - [Daniel S. Katz](https://danielskatz.org)

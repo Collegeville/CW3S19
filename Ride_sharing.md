@@ -1,7 +1,5 @@
 ## Ride Sharing
 
-To edit this page, make a pull request for the [page source on GitHub](https://github.com/Collegeville/CW3S19/blob/master/Ride_sharing.md)
-
 Please also keep the info below in date order.
 
 Rides on offer:
